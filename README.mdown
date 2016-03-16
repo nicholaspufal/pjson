@@ -1,0 +1,5 @@
+### pjson
+
+Pretty print JSON
+
+This utility was developed [Tim Uruski](https://github.com/timuruski) and is part of [his dotfiles](https://github.com/timuruski/dotfiles). I just copied it to a new repo in order to make it easier to create a homebrew formula for it :)
